@@ -1,2 +1,7 @@
-# scratchcode
-Small code experiments and ideas
+# Scratchcode - Random code experiments and ideas
+
+### php
+
+- [Simpledebuggerusinggenerators](php/SimpleDebuggerUsingGenerators.php)
+- [Fiber](php/Fiber.php)
+
